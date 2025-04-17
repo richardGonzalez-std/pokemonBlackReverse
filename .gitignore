@@ -1,4 +1,12 @@
 !analysis/
 !scripts/
-.gitignore
-auto-git.sh
+# Exclude all files by default
+*
+
+# Allow specific directories
+!analysis/
+!scripts/
+
+# Exclude this .gitignore file and scripts explicitly
+!.gitignore
+!auto-git.sh
