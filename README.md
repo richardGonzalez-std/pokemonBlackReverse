@@ -16,5 +16,3 @@ ya sea añadiendo una ia mas robusta, pokemons nuevos, etc.
 - **rom_analysis:** Resultados de desensamblado y volcado del ROM.
 - **Hola**
 - **Hola2**
-
-
