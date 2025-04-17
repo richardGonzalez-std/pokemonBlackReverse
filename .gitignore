@@ -20,6 +20,7 @@
 !D:/pokemonBlackReverse/analysis/
 
 # Ignore common generated files
+*.sh
 *.o
 *.obj
 *.so
