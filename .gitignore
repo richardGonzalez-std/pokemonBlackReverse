@@ -1,0 +1,46 @@
+# Ignore all files by default
+
+
+# Allow specific files and folders
+!
+!*.py
+!*.c
+!*.h
+!*.cpp
+!*.txt
+!*.md
+!*.json
+!*.xml
+!*.yml
+!*.yaml
+!Makefile
+!CMakeLists.txt
+!scripts/*
+!docs/*
+!D:/pokemonBlackReverse/analysis/
+
+# Ignore common generated files
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.class
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore version control folders
+.git/
+.svn/
+.hg/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
