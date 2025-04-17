@@ -1,5 +1,5 @@
 *
 !analysis/
 !scripts/
-.gitignore
-*auto-git.sh
+!.gitignore
+!auto-git.sh
