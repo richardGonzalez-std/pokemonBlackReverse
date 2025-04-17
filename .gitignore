@@ -2,3 +2,4 @@
 !analysis/
 !scripts/
 .gitignore
+auto-git.sh
