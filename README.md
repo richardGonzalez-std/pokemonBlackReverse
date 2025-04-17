@@ -15,4 +15,3 @@ ya sea añadiendo una ia mas robusta, pokemons nuevos, etc.
 - **scripts:** Herramientas y scripts de análisis.
 - **rom_analysis:** Resultados de desensamblado y volcado del ROM.
 - **Hola**
-- **Hola2**
