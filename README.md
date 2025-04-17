@@ -14,4 +14,4 @@ ya sea añadiendo una ia mas robusta, pokemons nuevos, etc.
 - **docs:** Documentación y diagramas.
 - **scripts:** Herramientas y scripts de análisis.
 - **rom_analysis:** Resultados de desensamblado y volcado del ROM.
-- **Hola**
+- **Holas**
