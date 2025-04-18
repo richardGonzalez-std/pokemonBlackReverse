@@ -14,3 +14,17 @@
 - `CP15_CTRL_CLR_MASK` (0x02004A8C): máscara de bits a 0 en CP15.
 - `CP15_CTRL_SET_MASK` (0x02004A90): bits a poner a 1.
 - `CP15_TCM_ENABLE_MASK` (0x02004A94): habilita TCM.
+
+## LoadOverlays
+
+- **bankIndex**: índice de banco de overlay.
+- **tableEntries**: puntero a la tabla en RAM.
+- **count**: número de entradas en la tabla.
+- **Función**: escribe `bankIndex` en cada posición de la tabla.
+
+### SetupSystem
+
+- Limpia caché de datos (por índices y offsets).
+- Sincroniza datos con `Data Synchronization`.
+- Ajusta el registro de control del CP15 (ARM9).
+- Opciones avanzadas de coprocessor.
